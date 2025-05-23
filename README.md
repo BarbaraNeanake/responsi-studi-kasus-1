@@ -3,6 +3,7 @@
 Nama : Barbara Neanake Ajiesti^^  
 NIU : 494495
 Sesi : Kelas B1
+
 Secret String : [3755fe9dd82c41b759321a3a943c80869169035a1a47330f6c8d3e4eef8479b20240603005301]
 
 ## Checklist Responsi
